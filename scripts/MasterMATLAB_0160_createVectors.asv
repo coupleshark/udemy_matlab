@@ -31,5 +31,5 @@ vectColumn1 = ones(3,1)*.25;
 matrRandom = randn(3);
 
 % transpose that matrix and store as a new matrix
-matrRandom1 = transpose(matrRandom);
+matrRandom1 = tra
 %%

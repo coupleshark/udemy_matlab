@@ -13,3 +13,8 @@ datatips : show datatips.
 - beep
 - addpath
 - set
+
+### 10 create Vectors and matrics
+
+
+
